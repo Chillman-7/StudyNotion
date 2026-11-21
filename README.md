@@ -4,7 +4,7 @@ StudyNotion is an ed-tech app where students browse and take courses, and instru
 
 ![StudyNotion home page](images/mainpage.png)
 
-This repository is the full project from `StudyNotion.zip`: frontend, API, assets, and local env files. `node_modules` is not included. Install dependencies on the machine where you run it.
+The repo contains the React app, the Express API, images, and local env files so you can run it after installing dependencies. `node_modules` is not committed.
 
 ## Features
 
@@ -120,3 +120,7 @@ The application is the public StudyNotion project at [saumyatiwaryy/Study-Notion
 ![Architecture](images/architecture.png)
 
 ![Data model](images/schema.png)
+
+## License
+
+[MIT](LICENSE)
