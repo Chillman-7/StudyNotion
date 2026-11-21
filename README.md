@@ -115,7 +115,7 @@ images/              README figures
 
 ## Where this code came from
 
-The application is the public StudyNotion project at [saumyatiwaryy/Study-Notion](https://github.com/saumyatiwaryy/Study-Notion). This copy is packaged so it runs from the downloaded zip: local API URL, CORS for localhost, Tailwind wired up, and signup that still works when email is not configured.
+The application is the public StudyNotion project. This copy is packaged so it runs from the downloaded zip: local API URL, CORS for localhost, Tailwind wired up, and signup that still works when email is not configured.
 
 ![Architecture](images/architecture.png)
 
